@@ -3,7 +3,7 @@ This is a number guessing game I created following the first lesson of the Udemy
 
 ### Instructions
 
-1. Click on the designated link:   https://wholetpaulin.github.io/NumberWizardUI/   (Wait for game to laod up)
+1. Click on the designated link:   https://wholetpaulin.github.io/NumberWizardUI/   (Wait for game to load up)
 
 2. Think of a number in your head between 1 and 1000.
 
