@@ -1,5 +1,5 @@
 # NumberWizardUI
-This is a number guessing game I created following the first lesson of the Udemy course: Learn to Code by Making Games - Complete C# Unity Developer
+This is a number guessing game I created following the second lesson of the Udemy course: Learn to Code by Making Games - Complete C# Unity Developer
 
 ### Instructions
 
@@ -18,4 +18,4 @@ If you have any questions about this project or the material, please feel free t
 
 ## Copyright
 
-Paul Trettenero (C) 2017. All Rights Reserved.
+Paul Trettenero (C) 2018. All Rights Reserved.
